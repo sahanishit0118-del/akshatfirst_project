@@ -11,10 +11,9 @@ A brief and compelling description of your project. Explain what it does, why it
 ## 🛠️ Installation
 
 To get started, clone the repository and install dependencies:
-'''bash
+```bash
 git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-'''
+```
 # For Python projects
 '''bash
 pip install -r requirements.txt
